@@ -4,7 +4,7 @@ metadata:
   name: server-properties
 data:
   server.properties: |
-    server-name=Dedicated Server
+    server-name=Dedicated Server by scndel
     gamemode=survival
     force-gamemode=false
     difficulty=easy
@@ -18,7 +18,7 @@ data:
     tick-distance=4
     player-idle-timeout=30
     max-threads=8
-    level-name=Bedrock level
+    level-name=random-seed
     level-seed=
     default-player-permission-level=member
     texturepack-required=false
@@ -31,3 +31,9 @@ data:
     player-movement-duration-threshold-in-ms=500
     correct-player-movement=false
     server-authoritative-block-breaking=false
+    chat-restriction=None
+    disable-player-interaction=false
+    client-side-chunk-generation-enabled=true
+    block-network-ids-are-hashes=false
+    disable-persona=false
+    server-build-radius-ratio=Disabled
